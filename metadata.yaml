@@ -1,10 +1,16 @@
 _repo: Rites-and-Ritual-A-Plea-for-Apostolic-Doctrine-and-Worship_48278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48278-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Philip
     gutenberg_agent_id: '44709'
     url: http://www.gutenberg.org/2009/agents/44709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48278#Rites-and-Ritual-A-Plea-for-Apostolic-Doctrine-and-Worship
 gutenberg_issued: '2015-02-16'
 gutenberg_type: Text
 identifiers:
